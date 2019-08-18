@@ -9,4 +9,6 @@ The repository contains the following files:
 
 The demo notebook walks through 2 examples:
 1. A simple example of building the student friendship network discussed in the slides
-2. A real-data example of building a voting network diagram for the 115th (2018) U.S. Senate. The interactive visualization output from this example can be explored [here](https://www.gaytascience.com/2018-senate-voting-network/).
+2. A real-data example of building a voting network diagram for the 115th (2018) U.S. Senate. The interactive visualization output from this example can be explored [here](https://www.gaytascience.com/2018-senate-voting-network/). 
+
+![alt text](https://www.gaytascience.com/wp-content/uploads/2019/08/finalgif.gif)
